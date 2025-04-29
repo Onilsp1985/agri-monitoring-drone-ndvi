@@ -1,0 +1,6 @@
+Média do NDVI: 0.3203
+Valor Mínimo do NDVI: -1.0000
+Valor Máximo do NDVI: 1.0000
+Desvio Padrão do NDVI: 0.3158
+Percentual de Áreas Saudáveis (NDVI > 0.3): 40.71%
+Percentual de Áreas Problemáticas (NDVI < 0): 7.47%
